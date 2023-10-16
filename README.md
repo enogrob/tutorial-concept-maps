@@ -15,7 +15,7 @@ Learn everything you need to about the subject of this `Tutorial` project.
 
 ## Topics
 
-[ ] [Concept Maps 1](https://www.youtube.com/watch?v=o2Js_9-ek7o)
+[x] [Concept Maps 1](https://www.youtube.com/watch?v=o2Js_9-ek7o)
 [ ] [Concept Maps 2](https://www.youtube.com/watch?v=TXU9UKajpVM)
 [ ] [Concept Mapping with Cmap](https://www.youtube.com/watch?v=22YeW55POBs)
 
